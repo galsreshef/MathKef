@@ -15,7 +15,7 @@ Android multiplayer application implementing Google's Firebase Authentication se
 - Motion-Layout
 
 ### Getting Started
-- Download [APK](https://github.com/galsreshef/MathKef/raw/master/app/release/MathKef_1.1.apk) and Install MathKef directly on your Android device.
+- Download from [Google Play Store](https://play.google.com/store/apps/details?id=com.thegalos.mathkef).
 
 # App Screens
 <p align="center">
